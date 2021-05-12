@@ -1,0 +1,5 @@
+.flaskenv
+venv
+todoapp/__pycache__
+todoapp/main/__pycache__
+todoapp/__init__.py
