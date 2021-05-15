@@ -27,11 +27,11 @@
 				<div class="col-lg-4 col-lg-offset-4" id="content">
 					<h2>WHAT DO YOU WANT TO DO TODAY?</h2>
 					
-					<form action="" method="POST" role="form">
+					<form action="{{ url_for('main.add_todo') }}" method="POST" role="form">
 					
 						<div class="form-group">
 							<div class="input-group">
-							  <input name="new-todo" type="text" class="form-control" placeholder="Enter todo e.g. Delete junk files" aria-label="Todo" aria-describedby="add-btn">
+							  <input name="add-todo" type="text" class="form-control" placeholder="Enter todo e.g. Delete junk files" aria-label="Todo" aria-describedby="add-btn">
 							  <span class="input-group-btn">
 								  <button type="submit" class="btn btn-default" id="add-btn">ADD</button>
 							  </span>
