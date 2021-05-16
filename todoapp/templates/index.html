@@ -58,7 +58,7 @@
 
 					<ul class="list-group t20">
 						{% for todo in todos %}
-						<a href="">
+						<a href="{{ url_for('main.complete_todo', oid=todo._id) }}">
 							<li class="list-group-item {% if todo.complete %}todo-completed{% endif %}">
 								{{ todo.text }}
 							</li>
