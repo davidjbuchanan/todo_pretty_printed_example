@@ -27,3 +27,10 @@ def complete_todo(oid):
     todo_item['complete'] = True
     todos_collection.save(todo_item)
     return redirect( url_for('main.index'))
+
+
+@main.route('/delete_completed')
+def delete_completed():
+    todos_collection = mongo.db.todos
+    todos_collection.delete_many({'complete' : True})
+    return redirect( url_for('main.index'))
