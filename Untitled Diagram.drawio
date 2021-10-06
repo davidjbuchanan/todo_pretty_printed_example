@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-06T20:38:06.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="NcEoWw13H-p6Yw7e4KKX" version="15.4.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-06T21:45:21.170Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="gPfS8Ifm2MsQSgkmQDiJ" version="15.4.3" type="github" pages="3">
   <diagram id="rb-pypnUGAUjR04Ts9U1" name="Page-1">
-    <mxGraphModel dx="726" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1494" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="hMW5H2m9D7a2tleL5P6j-0" />
         <mxCell id="hMW5H2m9D7a2tleL5P6j-1" parent="hMW5H2m9D7a2tleL5P6j-0" />
@@ -1108,6 +1108,18 @@
         </mxCell>
         <mxCell id="g4C8wFIdID7bXR_SqSI_-123" value="Tap back arrow" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
           <mxGeometry x="987" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g4C8wFIdID7bXR_SqSI_-124" value="&lt;font color=&quot;#ff3399&quot;&gt;Pain point solution - user typically wants to return to early point to edit&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#990099;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
+          <mxGeometry x="970" y="790" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g4C8wFIdID7bXR_SqSI_-125" value="Counter action to user&#39;s pain points:&amp;nbsp; &lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;no distractions/ no cross-selling; &lt;/li&gt;&lt;li&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;bold colours for cta buttons&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#000000;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
+          <mxGeometry x="676" y="1900" width="364" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="g4C8wFIdID7bXR_SqSI_-127" value="&lt;font color=&quot;#990099&quot;&gt;This releives users concern regarding the &#39;running total&#39; of the trip. It allows for a presentation of cost breakdown.&lt;/font&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;fontColor=#0000FF;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
+          <mxGeometry x="486" y="990.5" width="134" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="g4C8wFIdID7bXR_SqSI_-128" value="login &amp;amp; guest options available.&lt;br&gt;Guest login chosen for flow example&amp;nbsp; &amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#000000;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
+          <mxGeometry x="40" y="180" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
