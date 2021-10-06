@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-05T22:45:18.912Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="_tziyavYhMk75EeqyeLM" version="15.4.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-06T09:45:29.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="Ppxlu2EWOFZUsCDIodFp" version="15.4.2" type="github" pages="3">
   <diagram id="rb-pypnUGAUjR04Ts9U1" name="Page-1">
     <mxGraphModel dx="1182" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -33,6 +33,9 @@
             <mxRectangle x="310" y="160" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="R05Kf0UMh7dOOsXil6bq-0" value="Enter details prompt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-7">
+          <mxGeometry x="30" y="67" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="hMW5H2m9D7a2tleL5P6j-8" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
           <mxGeometry x="400" y="116" width="40" height="10" as="geometry" />
         </mxCell>
@@ -53,6 +56,9 @@
           <mxGeometry x="520" y="40" width="120" height="160" as="geometry">
             <mxRectangle x="310" y="160" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="R05Kf0UMh7dOOsXil6bq-1" value="Select Airport&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Enter%20details%20prompt%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BlabelBackgroundColor%3Dnone%3BlabelBorderColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22310%22%20y%3D%22107%22%20width%3D%2260%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-11">
+          <mxGeometry x="30" y="67" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hMW5H2m9D7a2tleL5P6j-12" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
           <mxGeometry x="640" y="116" width="40" height="10" as="geometry" />
@@ -75,6 +81,9 @@
             <mxRectangle x="310" y="160" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="R05Kf0UMh7dOOsXil6bq-2" value="Splash page: &#39;Allow location services&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-15">
+          <mxGeometry x="20" y="65" width="80" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="hMW5H2m9D7a2tleL5P6j-16" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
           <mxGeometry x="880" y="116" width="40" height="10" as="geometry" />
         </mxCell>
@@ -95,6 +104,9 @@
           <mxGeometry x="40" y="240" width="120" height="160" as="geometry">
             <mxRectangle x="310" y="160" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="R05Kf0UMh7dOOsXil6bq-4" value="Select from results" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-19">
+          <mxGeometry x="30" y="65" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hMW5H2m9D7a2tleL5P6j-20" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
           <mxGeometry x="160" y="316" width="40" height="10" as="geometry" />
@@ -117,6 +129,9 @@
             <mxRectangle x="310" y="160" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="R05Kf0UMh7dOOsXil6bq-5" value="Departure selected&lt;br&gt;&lt;br&gt;&amp;nbsp;Enter details" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-23">
+          <mxGeometry x="30" y="62" width="60" height="35" as="geometry" />
+        </mxCell>
         <mxCell id="hMW5H2m9D7a2tleL5P6j-24" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
           <mxGeometry x="400" y="316" width="40" height="10" as="geometry" />
         </mxCell>
@@ -137,6 +152,9 @@
           <mxGeometry x="520" y="240" width="120" height="160" as="geometry">
             <mxRectangle x="310" y="160" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="R05Kf0UMh7dOOsXil6bq-6" value="Select airport" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-27">
+          <mxGeometry x="30" y="67" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hMW5H2m9D7a2tleL5P6j-28" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
           <mxGeometry x="640" y="316" width="40" height="10" as="geometry" />
@@ -159,6 +177,9 @@
             <mxRectangle x="310" y="160" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="R05Kf0UMh7dOOsXil6bq-7" value="Insert text in prompt box" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-31">
+          <mxGeometry x="30" y="67" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="hMW5H2m9D7a2tleL5P6j-32" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
           <mxGeometry x="880" y="316" width="40" height="10" as="geometry" />
         </mxCell>
@@ -179,6 +200,12 @@
           <mxGeometry x="40" y="440" width="120" height="160" as="geometry">
             <mxRectangle x="310" y="160" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="R05Kf0UMh7dOOsXil6bq-8" value="Auto-completed&amp;nbsp; input.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-35">
+          <mxGeometry x="510" y="740" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R05Kf0UMh7dOOsXil6bq-9" value="London text autocompleted. Prompt to select London airport" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-35">
+          <mxGeometry x="20" y="65" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hMW5H2m9D7a2tleL5P6j-36" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
           <mxGeometry x="160" y="516" width="40" height="10" as="geometry" />
@@ -222,6 +249,9 @@
             <mxRectangle x="310" y="160" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="R05Kf0UMh7dOOsXil6bq-12" value="One way selected" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-43">
+          <mxGeometry x="30" y="65" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="hMW5H2m9D7a2tleL5P6j-44" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
           <mxGeometry x="640" y="516" width="40" height="10" as="geometry" />
         </mxCell>
@@ -242,6 +272,9 @@
           <mxGeometry x="760" y="440" width="120" height="160" as="geometry">
             <mxRectangle x="310" y="160" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="R05Kf0UMh7dOOsXil6bq-13" value="Date picker shown" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-47">
+          <mxGeometry x="30" y="65" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hMW5H2m9D7a2tleL5P6j-48" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
           <mxGeometry x="880" y="516" width="40" height="10" as="geometry" />
@@ -264,6 +297,9 @@
             <mxRectangle x="310" y="160" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="R05Kf0UMh7dOOsXil6bq-14" value="Review page&lt;br&gt;&lt;br&gt;cta &#39;find a flight&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-51">
+          <mxGeometry x="20" y="67" width="80" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="hMW5H2m9D7a2tleL5P6j-52" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
           <mxGeometry x="160" y="716" width="40" height="10" as="geometry" />
         </mxCell>
@@ -284,6 +320,9 @@
           <mxGeometry x="280" y="640" width="120" height="160" as="geometry">
             <mxRectangle x="310" y="160" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="R05Kf0UMh7dOOsXil6bq-15" value="Review flight selection" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-55">
+          <mxGeometry x="30" y="65" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hMW5H2m9D7a2tleL5P6j-56" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
           <mxGeometry x="400" y="716" width="40" height="10" as="geometry" />
@@ -306,6 +345,9 @@
             <mxRectangle x="310" y="160" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="R05Kf0UMh7dOOsXil6bq-16" value="economy basic vs economy plus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-59">
+          <mxGeometry x="30" y="66" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="hMW5H2m9D7a2tleL5P6j-60" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
           <mxGeometry x="640" y="716" width="40" height="10" as="geometry" />
         </mxCell>
@@ -327,6 +369,9 @@
             <mxRectangle x="310" y="160" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="R05Kf0UMh7dOOsXil6bq-17" value="Review page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-63">
+          <mxGeometry x="30" y="67" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="hMW5H2m9D7a2tleL5P6j-64" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
           <mxGeometry x="880" y="716" width="40" height="10" as="geometry" />
         </mxCell>
@@ -341,52 +386,55 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="38FS5L4Y4gcRMMmfQJto-1" value="Tap &#39;Book a flight&#39;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
-          <mxGeometry x="185" y="139" width="60" height="30" as="geometry" />
+          <mxGeometry x="185" y="143" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="38FS5L4Y4gcRMMmfQJto-2" value="Tap &#39;Select Departure&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
-          <mxGeometry x="423" y="139" width="65" height="30" as="geometry" />
+          <mxGeometry x="423" y="144" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="38FS5L4Y4gcRMMmfQJto-3" value="Text &#39;tap nearby&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
-          <mxGeometry x="665" y="139" width="60" height="30" as="geometry" />
+          <mxGeometry x="665" y="144" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="38FS5L4Y4gcRMMmfQJto-4" value="Tap &#39;Allow Once&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
-          <mxGeometry x="905" y="139" width="60" height="30" as="geometry" />
+          <mxGeometry x="905" y="145" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="38FS5L4Y4gcRMMmfQJto-5" value="Tap &#39;Glasgow&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
-          <mxGeometry x="186" y="339" width="60" height="30" as="geometry" />
+          <mxGeometry x="186" y="343" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="38FS5L4Y4gcRMMmfQJto-6" value="Tap &#39;Select Arrival&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
-          <mxGeometry x="423" y="340" width="64" height="30" as="geometry" />
+          <mxGeometry x="423" y="343" width="64" height="30" as="geometry" />
         </mxCell>
         <mxCell id="38FS5L4Y4gcRMMmfQJto-7" value="Tap &#39;Search for an airport&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
-          <mxGeometry x="656" y="340" width="80" height="30" as="geometry" />
+          <mxGeometry x="656" y="344" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="38FS5L4Y4gcRMMmfQJto-8" value="Type &#39;Lon&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
           <mxGeometry x="905" y="339" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="38FS5L4Y4gcRMMmfQJto-9" value="Tap &#39; London, LHR&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
-          <mxGeometry x="178.5" y="538" width="75" height="30" as="geometry" />
+          <mxGeometry x="178.5" y="542" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="38FS5L4Y4gcRMMmfQJto-10" value="Tap &#39;Return&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
-          <mxGeometry x="425" y="539" width="60" height="30" as="geometry" />
+          <mxGeometry x="425" y="544" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="38FS5L4Y4gcRMMmfQJto-11" value="Tap &#39;05 Oct 2021&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
-          <mxGeometry x="666" y="538" width="60" height="30" as="geometry" />
+          <mxGeometry x="666" y="545" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="38FS5L4Y4gcRMMmfQJto-12" value="Tap &#39;20&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
           <mxGeometry x="906" y="538" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="38FS5L4Y4gcRMMmfQJto-13" value="Tap &#39;find a flight&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
-          <mxGeometry x="186" y="738" width="60" height="30" as="geometry" />
+          <mxGeometry x="186" y="742" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="38FS5L4Y4gcRMMmfQJto-14" value="Scroll and Tap to select" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
-          <mxGeometry x="420" y="738" width="70" height="30" as="geometry" />
+          <mxGeometry x="420" y="745" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="38FS5L4Y4gcRMMmfQJto-15" value="Tap &#39;&#39;choose&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
-          <mxGeometry x="666" y="738" width="60" height="30" as="geometry" />
+          <mxGeometry x="666" y="745" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="38FS5L4Y4gcRMMmfQJto-16" value="Tap &#39;continue&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
-          <mxGeometry x="906" y="738" width="60" height="30" as="geometry" />
+          <mxGeometry x="906" y="744" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R05Kf0UMh7dOOsXil6bq-11" value="Departure selected&lt;br&gt;&lt;br&gt;Arrival selected&lt;br&gt;&lt;br&gt;&amp;nbsp;Enter details" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="hMW5H2m9D7a2tleL5P6j-1">
+          <mxGeometry x="310" y="508" width="60" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -736,7 +784,7 @@
           <mxGeometry x="168" y="139" width="94" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gVZe8lm7W0lcePnbABio-1" value="Tap &#39;Title&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="9tKth9fGsLm5y67AK-iP-1">
-          <mxGeometry x="430" y="139" width="60" height="30" as="geometry" />
+          <mxGeometry x="426" y="137" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gVZe8lm7W0lcePnbABio-2" value="Scroll to select then Tap &#39;done&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="9tKth9fGsLm5y67AK-iP-1">
           <mxGeometry x="654" y="139" width="85" height="30" as="geometry" />
@@ -744,14 +792,41 @@
         <mxCell id="gVZe8lm7W0lcePnbABio-3" value="Tap &#39;First name&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="9tKth9fGsLm5y67AK-iP-1">
           <mxGeometry x="906" y="139" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gVZe8lm7W0lcePnbABio-4" value="Type &#39;David&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="9tKth9fGsLm5y67AK-iP-1">
-          <mxGeometry x="185" y="339" width="60" height="30" as="geometry" />
+        <mxCell id="gVZe8lm7W0lcePnbABio-4" value="Type &#39;Buchanan&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="9tKth9fGsLm5y67AK-iP-1">
+          <mxGeometry x="906" y="345" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gVZe8lm7W0lcePnbABio-5" value="Tap &#39;done&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="9tKth9fGsLm5y67AK-iP-1">
-          <mxGeometry x="427" y="339" width="60" height="30" as="geometry" />
+          <mxGeometry x="426" y="338" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gVZe8lm7W0lcePnbABio-6" value="Tap &#39;Last name&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="9tKth9fGsLm5y67AK-iP-1">
-          <mxGeometry x="666.5" y="339" width="60" height="30" as="geometry" />
+          <mxGeometry x="666.5" y="343" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gVZe8lm7W0lcePnbABio-8" value="Type &#39;David&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="9tKth9fGsLm5y67AK-iP-1">
+          <mxGeometry x="184" y="344" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gVZe8lm7W0lcePnbABio-9" value="Tap &#39;done&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="9tKth9fGsLm5y67AK-iP-1">
+          <mxGeometry x="185" y="539" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5jzNwq-qp1bJlyTTszl5-0" value="Tap &#39;continue&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="9tKth9fGsLm5y67AK-iP-1">
+          <mxGeometry x="425" y="545" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5jzNwq-qp1bJlyTTszl5-1" value="Tap &#39;continue&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="9tKth9fGsLm5y67AK-iP-1">
+          <mxGeometry x="666.5" y="546" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5jzNwq-qp1bJlyTTszl5-3" value="Tap &#39;Mr David Buchanan&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="9tKth9fGsLm5y67AK-iP-1">
+          <mxGeometry x="894" y="545" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5jzNwq-qp1bJlyTTszl5-4" value="Tap &#39;Email&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="9tKth9fGsLm5y67AK-iP-1">
+          <mxGeometry x="185" y="740" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5jzNwq-qp1bJlyTTszl5-6" value="Type &#39;12345678910&#39; and Tap &#39;done&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="9tKth9fGsLm5y67AK-iP-1">
+          <mxGeometry x="894" y="747" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5jzNwq-qp1bJlyTTszl5-8" value="Tap &#39;phone number&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="9tKth9fGsLm5y67AK-iP-1">
+          <mxGeometry x="657.5" y="745" width="73.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5jzNwq-qp1bJlyTTszl5-10" value="Type &#39;xxxx @gmail.com&#39; and Tap &#39;done&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="9tKth9fGsLm5y67AK-iP-1">
+          <mxGeometry x="414" y="752" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1096,6 +1171,15 @@
               <mxPoint x="990" y="721" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XD4_PgO550jXkSveCVUb-1" value="Tap &#39;select seats&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="144" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XD4_PgO550jXkSveCVUb-2" value="Tap on desired seat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="418" y="144" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XD4_PgO550jXkSveCVUb-3" value="Tap &#39;done&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660.5" y="139" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
